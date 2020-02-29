@@ -1,0 +1,22 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "simple background generator, which also gives CSS for that specific background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zboh/background_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zboh/background_generator/issues"
+  },
+  "homepage": "https://github.com/zboh/background_generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
